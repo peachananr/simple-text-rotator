@@ -7,7 +7,6 @@ To use this on your website, simply include the latest jQuery library found here
   
 ````html
 Super <span class="rotate">Simple, Customizable, Light Weight, Easy</span> Text Rotator with Style
-...
 ````
 
 Put every rotating words inside the `<span class="rotate"></span>` and separate it with a comma and the script will automatically cycle through each words in order.
